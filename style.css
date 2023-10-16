@@ -11,10 +11,8 @@ text-transform: uppercase;
 color: #000000;
 font-weight: bold;
 font-sixe: 22px;
-text-decoration: none;
-}
 
-nav li {
-display: inline;
-margin: 0 0 0 15px;
+nav {
+position:absolute;
+top : 0;
 } 
